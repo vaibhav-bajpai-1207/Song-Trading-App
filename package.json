@@ -1,0 +1,15 @@
+{
+  "name": "songtrading",
+  "version": "1.0.0",
+  "description": "This app checks the most listened songs and predicts the market rate as it depends on the mood of the customers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaibhav-bajpai-1207/Song-Trading-App.git"
+  },
+  "author": "Vaibhav Bajpai",
+  "license": "ISC"
+}
